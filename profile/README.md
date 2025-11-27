@@ -1,4 +1,4 @@
-## Tero
+# Tero
 
 Customer-first observability data management. From the creators of [Vector.dev](https://vector.dev).
 
