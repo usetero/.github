@@ -1,5 +1,3 @@
-# Tero
-
 From the creators of [Vector.dev](https://vector.dev).
 
 Most observability data is waste. Debug logs left in production, health checks firing every second, verbose traces nobody looks at. You're paying to store it, and your vendors aren't going to help you fix it.
