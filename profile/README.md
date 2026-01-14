@@ -1,5 +1,5 @@
-Most observability data is waste. Debug logs left in production, health checks firing every second, verbose errors nobody looks at. You're paying to store it, and your vendors aren't going to help you fix it.
+**Tero is the intelligent control plane for observability data.**
 
-Tero identifies what's garbage and helps you clean it up—typically 40-70% of log volume. No infrastructure changes. We work with what you already run.
+We answer a question no one else can: what percentage of your data is waste? You see exactly what's driving it, approve what to fix, and we handle the rest. Typically 40-70% reduction.
 
 [Website](https://usetero.com) · [Docs](https://docs.usetero.com)
