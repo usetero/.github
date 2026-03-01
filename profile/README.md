@@ -15,7 +15,10 @@ We help teams measure telemetry waste, decide what to change, and apply policy s
 
 - [edge](https://github.com/usetero/edge) — Edge policy proxy for telemetry pipelines
 - [policy](https://github.com/usetero/policy) — Vendor-neutral policy specification
-- [policy-conformance](https://github.com/usetero/policy-conformance) — Conformance tests for policy implementations
+- [policy-go](https://github.com/usetero/policy-go) — Go policy library
+- [policy-rs](https://github.com/usetero/policy-rs) — Rust policy library
+- [policy-zig](https://github.com/usetero/policy-zig) — Zig policy library
+- [tero-collector-distro](https://github.com/usetero/tero-collector-distro) — Tero distribution of the OpenTelemetry Collector
 - [docs](https://github.com/usetero/docs) — Public documentation
 
 ## Contact
